@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+<!--## Hi there 👋
 **janiovr/janiovr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Janio 👋
+
+I'm a developer transitioning from a hardware background into software development.
+
+🔧 Background:
+- CNC machines
+- 3D printers
+- Arduino & embedded systems
+- Linux environment
+
+💻 Current Focus:
+- Front-end development (HTML, CSS, JavaScript)
+- Interactive interfaces
+- Machine simulation systems
+
+🚀 Featured Project:
+👉 CNC Machine Dashboard  
+https://janiovr.github.io/machine-dashboard/
+
+🎯 Goal:
+To work remotely as a Front-end Developer on real-world applications.
+
+---
+
+Always learning. Always building.
