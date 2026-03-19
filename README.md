@@ -16,23 +16,23 @@ Here are some ideas to get you started:
 
 I'm a developer transitioning from a hardware background into software development.
 
-🔧 Background:
+## Background
 - CNC machines
 - 3D printers
-- Arduino & embedded systems
+- Arduino and embedded systems
 - Linux environment
 
-💻 Current Focus:
+## Current Focus
 - Front-end development (HTML, CSS, JavaScript)
 - Interactive interfaces
 - Machine simulation systems
 
-🚀 Featured Project:
-👉 CNC Machine Dashboard  
+## Featured Project
+**CNC Machine Dashboard**  
 https://janiovr.github.io/machine-dashboard/
 
-🎯 Goal:
-To work remotely as a Front-end Developer on real-world applications.
+## Goal
+To work remotely as a Front-end Developer building real-world applications.
 
 ---
 
